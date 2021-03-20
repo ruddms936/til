@@ -38,3 +38,4 @@ Today I Learned!👨‍💻
 | 2021.03.15 | SSO 적용, TLS 생성하고 적용 |
 | 2021.03.16 | SSO 복습, TLS 복습, Create React App 공부 |
 | 2021.03.19 | Ts Code를 Nest.js 포팅, SSO 적용, Azure Container Instances Deployment |
+| 2021.03.20 | 졸업과제 UI/UX 토의 |
