@@ -39,3 +39,4 @@ Today I Learned!👨‍💻
 | 2021.03.16 | SSO 복습, TLS 복습, Create React App 공부 |
 | 2021.03.19 | Ts Code를 Nest.js 포팅, SSO 적용, Azure Container Instances Deployment |
 | 2021.03.20 | 졸업과제 UI/UX 토의 |
+| 2021.03.21 | Anaconda 설치, python 공부 |
