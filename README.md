@@ -41,3 +41,4 @@ Today I Learned!👨‍💻
 | 2021.03.20 | 졸업과제 UI/UX 토의 |
 | 2021.03.21 | Anaconda 설치, python 공부 |
 | 2021.03.23 | Azure Devops Docker Pipelines 설계 |
+| 2021.03.24 | Azure Kubernetes Service 공부 |
