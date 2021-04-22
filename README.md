@@ -55,3 +55,4 @@ Today I Learned!👨‍💻
 | 2021.04.11 | db 마이그레이션 도구 설계, pipeline 설계 및 github action 연습 |
 | 2021.04.15 | go 복습 |
 | 2021.04.21 | ASP.NET Core API 연습 |
+| 2021.04.22 | ASP.NET Core API 연습 |
