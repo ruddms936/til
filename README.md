@@ -57,3 +57,4 @@ Today I Learned!👨‍💻
 | 2021.04.21 | ASP.NET Core API 연습 |
 | 2021.04.22 | ASP.NET Core API 연습 |
 | 2021.04.25 | ERD 복습 |
+| 2021.04.27 | Windows Server 온프레미스 IIS 배포 연습 |
