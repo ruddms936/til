@@ -72,3 +72,4 @@ Today I Learned!👨‍💻
 | 2021.05.11 | serilog + appinsight 테스트 |
 | 2021.05.19 | issue 및 project 관리 |
 | 2021.05.20 | react project 리펙토링 |
+| 2021.05.23 | 테라폼 기초 공부 |
