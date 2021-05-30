@@ -77,3 +77,4 @@ Today I Learned!👨‍💻
 | 2021.05.26 | `Microsoft Bot Framework` hello, world |
 | 2021.05.27 | `Microsoft Bot Framework` hello, world |
 | 2021.05.28 | 졸업과제: mock-service 아키텍처 리팩토링 |
+| 2021.05.30 | 졸업과제: api-gateway 아키텍처 설계 및 nestjs 연습 |
