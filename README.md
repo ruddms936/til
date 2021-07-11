@@ -98,4 +98,5 @@ Today I Learned!👨‍💻
 | --- | --- |
 | 2021.07.04 | gRPC, react 복습 |
 | 2021.07.06 | OOP, react-query 복습 |
-| 2021.07.09 | ASP.NET Core Web Api 복습 |
+| 2021.07.09 | ASP.NET Core Web Api 공부 |
+| 2021.07.11 | ASP.NET Core Web Api 공부 |
