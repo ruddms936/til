@@ -103,3 +103,4 @@ Today I Learned!👨‍💻
 | 2021.07.12 | ASP.NET Core 시간이 지정된 백그라운드 작업 공부 |
 | 2021.07.13 | ASP.NET Core 웹 큐 작업자 패턴 구현 및 파일 다운로드 API 구현 |
 | 2021.07.14 | ASP.NET Core TimedHostedService 구현 |
+| 2021.07.17 | graph api 정리, go: best 디자인 정리 |
