@@ -105,3 +105,4 @@ Today I Learned!👨‍💻
 | 2021.07.14 | ASP.NET Core TimedHostedService 구현 |
 | 2021.07.17 | graph api 정리, go: best 디자인 정리 |
 | 2021.07.20 | jest, mysql 자료형 정리 |
+| 2021.07.29 | localStorage 응용 |
